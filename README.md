@@ -1,6 +1,8 @@
 # proxme
 
-A new Flutter project.
+A proxy Flutter project.
+PLAY STORE:
+https://play.google.com/store/apps/details?id=ir.h3mco.mtproxiez
 
 ## Getting Started
 
